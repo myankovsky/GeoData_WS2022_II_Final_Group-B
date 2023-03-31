@@ -28,7 +28,7 @@ For Task 2.1, we were required to georeference the picture of the map above. We 
 
 For Task 2.2, we created a hillshade model from the DTM layer and plotted our georeferenced map partly transparent on top of the hillshade model. By comparing the two, we observed that the burial mounds on the georeferenced map were quite visible.
 
-In Task 2.3, we were asked to use the DTM (not the hillshade model) to measure the typical mound heights relative to their direct environment or neighborhood, rather than the absolute height above sea level. We found that the typical elevation of the burial mounds in the landscape was XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+In Task 2.3, we were asked to use the DTM (not the hillshade model) to measure the typical mound heights relative to their direct environment or neighborhood, rather than the absolute height above sea level. We found that the typical elevation of the burial mounds in the landscape was 37-40m.
 
 Task 2.4 required us to study the hillshade model in the direction of East-North-East of the burial mounds area and search for weakly visible rectangular structures that were not paths. We observed some patterns that seemed to fit this description, and we had a few guesses about their origin. We chose at least one of the structures, digitized it with a polygon, and saved it as a geopackage.
 
@@ -56,4 +56,5 @@ We tried to make an analysis of the public transportation in some german cities 
 
 Done. You can find a link to the video here: 
 
+https://drive.google.com/file/d/1MCGHv9rZsUkyxUnsTled9v8E3tka_Opj/view?usp=share_link
 
